@@ -32,7 +32,3 @@ The dataset contains three main tables:
 3. Import the dataset tables: `CUSTOMER`, `PRODUCT`, `TRANSACTION`.
 4. Run the provided SQL queries in the BigQuery editor.
 5. Review results, filter, or export for visualization.
-
----
-
-## 📁 Folder Structure
